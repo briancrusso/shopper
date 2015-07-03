@@ -6,4 +6,7 @@ $(document).ready(function() {
     $('.list1 ul').on("click", "li", function() {
         $('.list2 ul').append(this);
     });
+     $('.list2 ul').on("click", "li", function() {
+        this.remove();
+    });
 });
