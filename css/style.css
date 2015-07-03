@@ -145,6 +145,10 @@ p {
         height: 2rem;
         font-size: 1em;
     }
+    button {
+        padding: 10px .75em 11px .75em;
+        font-size: 1em;
+    }
     .main {
         padding-top: 1em;
     }
