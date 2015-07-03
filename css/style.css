@@ -93,6 +93,7 @@ button:hover {
     width: 15rem;
     padding: .5rem 0rem;
     box-shadow: -10px -10px 5px #888888;
+    border-radius: 2em;
 }
 
 .list1 {
@@ -140,17 +141,26 @@ p {
         margin-top: 1rem;
     }
     .bar {
-        width: 25rem;
-        height: 3rem;
+        width: 12rem;
+        height: 2rem;
+        font-size: 1em;
+    }
+    .main {
+        padding-top: 1em;
     }
     .I-have,
     .I-need {
         margin-left: 4rem;
+        margin-top: 0rem;
     }
     h2 {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     ul {
-        font-size: 2rem;
+        font-size: 1.5rem;
+    }
+    p {
+        padding: 1em 1em;
+
     }
 }
