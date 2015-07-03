@@ -6,7 +6,7 @@
     background-image: url('../images/masthead-background.jpg');
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    margin: 0px -20px
+    margin: 0px -10px;
 }
 
 h1 {
@@ -141,7 +141,7 @@ p {
         margin-top: 1rem;
     }
     .bar {
-        width: 10rem;
+        width: 9rem;
         height: 2rem;
         font-size: 1em;
     }
