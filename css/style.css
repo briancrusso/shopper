@@ -132,9 +132,9 @@ p {
     h1 {
         padding: 2rem;
         padding-bottom: 5rem;
-        font-size: 3rem;
+        font-size: 2rem;
         text-shadow: -1px -2px red;
-        margin-bottom: -1em;
+        margin-bottom: -1.5em;
     }
     .enter-item {
         margin-top: 1rem;
